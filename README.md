@@ -1,3 +1,3 @@
 # ML-test
 
-Jupyter notebooks to learn Machinle Learning
+Jupyter notebooks to practice Machine Learning
